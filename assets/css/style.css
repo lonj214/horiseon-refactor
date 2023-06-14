@@ -40,7 +40,7 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-/* end header style */
+/* end header styles */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -49,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* Start of hero styles */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,7 +58,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* End of hero styles */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -74,7 +74,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* Start of benefit styles */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -103,7 +103,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* End of benefit styles */
 
+/* Start of search-engine-optimization, online-reputaion-management, social-media-marketing styles */
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -121,6 +123,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* End of search-engine-optimization, online-reputaion-management, social-media-marketing styles */
+
+/* Start of footer */
 .footer {
     padding: 30px;
     clear: both;
@@ -131,3 +136,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/* End of footer */
